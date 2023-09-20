@@ -7,8 +7,8 @@
     <ProjectGuid>{C8A5871B-EEFA-49EB-84A0-5B021D13E233}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>abc_bank</RootNamespace>
-    <AssemblyName>abc-bank</AssemblyName>
+    <RootNamespace>xyz_bank</RootNamespace>
+    <AssemblyName>xyz-bank</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
