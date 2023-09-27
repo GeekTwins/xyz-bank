@@ -7,7 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xyz-bank", "xyz-bank\xyz-ba
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xyz-bank-tests", "xyz-bank-tests\xyz-bank-tests.csproj", "{36E8C1E7-37D3-4365-91E5-4FD57A1256BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xyz_bank_start", "xyz_bank_start\xyz_bank_start.csproj", "{2D9E100E-B2C0-481A-99E1-F6E62C0F9E24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xyz_bank_start", "xyz_bank_start\xyz_bank_start.csproj", "{2D9E100E-B2C0-481A-99E1-F6E62C0F9E24}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9268EBCC-87E3-43F6-86A7-68CE14EA84DD}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
